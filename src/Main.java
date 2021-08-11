@@ -1,3 +1,4 @@
+
 //Task 2
 // public class Main {
 //     public static void main(String[] args) throws Exception {
@@ -34,6 +35,13 @@ public class Canvas extends JPanel {
         }
     }
     
+    public void graid(){
+        
+    }
+
+    public void cell(){
+
+    }
 }
 
  public Main(){
@@ -44,5 +52,4 @@ public class Canvas extends JPanel {
      this.setVisible(true);
  }
 }
-
 
